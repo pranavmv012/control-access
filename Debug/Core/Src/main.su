@@ -1,0 +1,11 @@
+main.c:84:6:setPWMandTurnON	104	static
+main.c:144:5:main	8	static
+main.c:194:6:SystemClock_Config	184	static
+main.c:257:13:MX_TIM1_Init	112	static
+main.c:337:13:MX_USART2_UART_Init	8	static
+main.c:372:13:MX_GPIO_Init	40	static
+main.c:405:6:passcodeMatch	48	static
+main.c:442:6:grantedLed	16	static
+main.c:459:6:deniedLed	8	static
+main.c:474:6:sos	16	static
+main.c:525:6:Error_Handler	4	static
